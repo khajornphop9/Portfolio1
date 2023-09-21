@@ -4,8 +4,8 @@ import Home from "./page/home/Home";
 import About from "./page/about/About";
 import Contact from "./page/contact/Contact";
 import Project from "./page/project/Project";
-
 import "./index.css";
+
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const router = createBrowserRouter([
